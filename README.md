@@ -15,8 +15,9 @@ An interactive web app to express and share Valentine's Day messages with a touc
 - [FontAwesome](https://fontawesome.com/) for heart icon
 
 ## Usage
+- Copy the link here https://joshallenb.github.io/valentine-app/ 
 
-1. Clone the repository:
+- Clone the repository:
 
    ```bash
    git clone https://github.com/your-username/valentine-app.git
