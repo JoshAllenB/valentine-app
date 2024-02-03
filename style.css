@@ -71,3 +71,37 @@
   height: 500px;
   width: 500px;
 }
+
+@media (max-width: 800px) {
+  .container {
+    width: 80%;
+    height: auto;
+  }
+
+  h1 {
+    font-size: 1.4rem;
+    margin: 10px;
+  }
+
+  .btnContainer {
+    margin: 20px;
+  }
+
+  #yesBtn {
+    font-size: 1rem;
+    left: 10px;
+    width: auto;
+  }
+
+  #noBtn {
+    right: 0;
+    position: relative;
+    width: auto;
+  }
+
+  #heartGif,
+  #cupid {
+    height: 100%;
+    width: 100%;
+  }
+}
